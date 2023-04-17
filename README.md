@@ -27,7 +27,7 @@ The project is a GUI client application that allows the user to select a folder 
 
 ## Installation
 
-To run the application, download the source code and open it in an IDE that supports WinBuilder. Run the main method in the `Main.java` file.
+To run the application, download the source code and open it in an IDE that supports WinBuilder. Run the WinBuilder.java file.
 
 ## Screenshots
 
